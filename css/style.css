@@ -1,0 +1,141 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-color: darkgray;
+}
+.pracownik {
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: small;
+    width: 200px;
+    padding:8px;
+    margin-bottom: 2px;
+    background-color: yellow;
+    border :1px solid red;
+
+}
+.czas{
+    font-weight: 700;
+    color:black;
+    background-color: yellow;
+    border:1px solid red;
+    padding:8px;
+    font-size: small;
+}
+.stawka{
+    font-weight: 700;
+    color:black;
+    background-color: yellow;
+    border:1px solid red;
+    padding:8px;
+    font-size: small;
+}
+.naglowek_tabeli_imie{
+
+    font-weight: 700;
+    color:whitesmoke;
+    background-color:grey;
+    border:1px solid red;
+    padding:8px;
+    font-size: medium;
+    text-transform: uppercase;
+    width:200px
+
+}
+
+.naglowek_tabeli{
+text-transform: uppercase;
+    font-weight: 700;
+    color:whitesmoke;
+    background-color: grey;
+    border:1px solid red;
+    padding:8px;
+    margin-bottom: 2px;
+    font-size: medium;
+    width:150px
+
+}
+
+
+button{
+    background-color: blue;
+    color: beige;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: beige;
+    color: blue;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: 700;
+}
+.wyplata{
+    font-weight: 700;
+    color: red;
+    background-color: yellow;
+    border:1px solid red;
+    padding:8px;
+    font-size: small;
+    width: 150px;
+}
+
+
+
+.name {
+    width: 250px;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size:medium;
+}
+
+.time {
+    width: 160px;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+.price {
+    width: 150px;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+.offPrice {
+    width: 150px;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+
+input {
+    width: 150px;
+}
+
+.red{
+    background-color: red;
+    color: white;
+    padding:8px;
+    border: 1px solid yellow;
+}
+
+span {
+    display: inline-block;
+    width: 200px;
+    /*procenty piksele cokolwiek innego */
+}
